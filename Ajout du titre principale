@@ -1,11 +1,10 @@
-# hello-world
-Defi Wild code school
 <html>
 <head>
 <title>change title</title>
 </head>
 <body>
 <h1>TITRE PRINCIPALE</h1>
+<h2>TITRE SECONDAIRE</h2>
 <p>bonjour</p>
 </body>
 </html>
